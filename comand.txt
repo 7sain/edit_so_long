@@ -1,0 +1,1 @@
+reset; gcc so_long.c map_read.c setting_img.c img.c key_hook.c keys.c so_long.h libft/libft.a gnl/get_next_line.c gnl/get_next_line_utils.c mlx/libmlx.a -Lmlx -framework OpenGL -framework AppKit -g -fsanitize=address && ./a.out maps.ber
